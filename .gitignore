@@ -1,0 +1,16 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Virtual environment
+.venv/
+
+# Temporary files
+/tmp/
+/output/
+/input/
+/example/
